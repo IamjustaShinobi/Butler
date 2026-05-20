@@ -50,4 +50,4 @@ python main.py
 - Google Drive API v3
 
 ## 🙋 Author
-[Your Name — linkedin.com/in/yourprofile](https://github.com/IamjustaShinobi/Butler)
+[Syed Umer](https://github.com/IamjustaShinobi/Butler)
