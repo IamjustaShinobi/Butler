@@ -5,8 +5,8 @@ Butler watches your export folder and automatically
 uploads your video to Google Drive the moment rendering is done.
 
 ## 📸 Demo
-[screenshot of terminal]
-[screenshot of drive]
+![alt text](<Screenshot 2026-05-20 201809.png>)
+![alt text](<Screenshot 2026-05-20 202157.png>)
 
 ## ✨ Who is this for
 - Video Editors (Premiere Pro, DaVinci)
@@ -24,7 +24,7 @@ uploads your video to Google Drive the moment rendering is done.
 ## 🚀 Setup
 
 ### 1. Clone the repo
-git clone https://github.com/yourname/Butler.git
+git clone https://github.com/IamjustaShinobi/Butler.git
 cd Butler
 
 ### 2. Install dependencies
@@ -50,4 +50,4 @@ python main.py
 - Google Drive API v3
 
 ## 🙋 Author
-Your Name — linkedin.com/in/yourprofile
+[Your Name — linkedin.com/in/yourprofile](https://github.com/IamjustaShinobi/Butler)
